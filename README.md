@@ -1,3 +1,3 @@
 # README
 
-Learn git
+Learn git 1,2,3
